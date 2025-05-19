@@ -1,5 +1,8 @@
-<widget>
-  <ver>1.0.0</ver>
-  <size>13632393</size>
-  <widgetname>TestProjectWeb</widgetname>
-</widget>
+<?xml version="1.0" encoding="UTF-8"?>
+<SSSPConfig>
+  <AppInfo>
+    <LaunchMode>remote</LaunchMode>
+    <AppPath>https://sanketgharat.github.io/test-tep/TestProjectWeb.tpk</AppPath>
+    <AutoLaunch>true</AutoLaunch>
+  </AppInfo>
+</SSSPConfig>
